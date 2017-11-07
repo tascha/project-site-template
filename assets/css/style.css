@@ -563,7 +563,7 @@
 		text-align: center;
 		padding: 3em 0 0 0;
 		background-color: #545454;
-		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
+		/* background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png"); */
 		background-position: top left,					top left,					top left;
 		background-size: 100% 6em,					100% 6em,					auto;
 		background-repeat: no-repeat,					no-repeat,					repeat;
@@ -596,7 +596,7 @@
 			display: block;
 			width: 100%;
 			height: 0.75em;
-			background-color: #37c0fb;
+			background-color: #e83732;
 			background-image: url("images/bg01.png");
 		}
 

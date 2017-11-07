@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
+title: First Blog Post
 featured: /assets/images/pic03.jpg
 layout: post
 ---

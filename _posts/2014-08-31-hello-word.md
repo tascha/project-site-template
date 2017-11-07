@@ -1,5 +1,5 @@
 ---
-title: Ullamco Laboris minim veniam
+title: Third Blog Post
 featured: /assets/images/pic01.jpg
 layout: post
 ---

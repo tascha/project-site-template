@@ -1,4 +1,4 @@
-name: Arcana
-description: Arcana template for Jekyll
+name: TASCHA Project
+description: Project Page for TASCHA
 paginate: 10
-baseurl: "/TASCHA"
+baseurl: '/Arcana-Jekyll-Theme'
