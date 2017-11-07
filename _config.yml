@@ -1,4 +1,4 @@
 name: TASCHA Project
 description: Project Page for TASCHA
 paginate: 10
-baseurl: '/TASCHA'
+baseurl: '/project-site-template'
